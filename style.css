@@ -1,0 +1,18 @@
+* {
+    background-color: orange;
+    box-sizing: border-box;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+.optionbox {
+    display: flex;
+    flex: 0 1 auto;
+    max-width: 200px;
+    justify-content: center;
+    border: 2px solid orangered;
+    background-color: aqua;
+}
